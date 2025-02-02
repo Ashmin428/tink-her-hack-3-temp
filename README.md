@@ -1,39 +1,36 @@
-# [Project Name] 🎯
+#BusBee 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Think Tankers
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Arundhathy R Nair - MACE
+- Member 2: Ashmin Shaji - MACE
+- Member 3: Sandra M Kartha - MACE
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[[mention your project hosted project link here]](https://drive.google.com/file/d/1e-jEsAFnNzJae7t7-qLw7hq7K9fKtk3i/view?usp=drivesdk)
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+There is no way to track private buses in local routes.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+BusBee is a smart and efficient platform that helps you track local bus timings in real time. With accurate location updates, estimated arrival times, and easy-to-access schedules, BusBee ensures a hassle-free commuting experience. Simply enter your location or bus route to see when the next bus will arrive, making your daily travel more convenient and reliable.
+Say goodbye to long waits and missed buses! Plan your journey efficiently with BusTrack.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- javascript, html
+- Firebase SDK
+- Figma, Canva, VS Code
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -47,8 +44,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!![Screenshot 2025-02-02 103008](https://github.com/user-attachments/assets/7562c75e-4e93-44de-8e70-317be5e2d836)
+JAVA CODE: Helps to fetch 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -91,9 +88,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Arundhathy R Nair: Logo Design, Ideation
+- Ashmin Shaji: Backend Coding
+- Sandra M Kartha: Website Designing
 
 ---
 Made with ❤️ at TinkerHub
